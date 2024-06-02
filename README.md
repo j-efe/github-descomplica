@@ -17,5 +17,5 @@ pagina-html-simples/
 ## Como Usar
 Clone o repositório:
 ```shell
-git clone https://github.com/greglixandrao/descomplica-github.git
+git clone https://github.com/j-efe/github-descomplica.git
 ```
